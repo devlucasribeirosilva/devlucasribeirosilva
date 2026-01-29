@@ -21,3 +21,7 @@ I'm a **Technical Support Analyst** currently pivoting to **Software Development
 
 ---
 📫 **How to reach me:** linkedin.com/in/dev-lucasribeirosilva | dev.lucasribeirosilva@gmail.com
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devlucasribeirosilva&layout=compact&theme=vision-glow)](https://github.com/anuraghazra/github-readme-stats)
