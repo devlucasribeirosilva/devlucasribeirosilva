@@ -20,4 +20,4 @@ I'm a **Technical Support Analyst** currently pivoting to **Software Development
 - Enhancing my Data Analysis skills with Python and Power BI.
 
 ---
-📫 **How to reach me:** [Link do LinkedIn] | [Seu Email]
+📫 **How to reach me:** linkedin.com/in/dev-lucasribeirosilva | dev.lucasribeirosilva@gmail.com
